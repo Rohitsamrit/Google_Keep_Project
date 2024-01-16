@@ -1,0 +1,12 @@
+.centered-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; /* Adjust the height as needed */
+    background-color: #f0f0f0; /* Add a background color if desired */
+  }
+  
+  .footer-content {
+    text-align: center;
+  }
+  
